@@ -1,0 +1,12 @@
+body{
+    width: 450px;
+}
+h2{
+    text-align: center;
+}
+.noidung{
+    margin-left: 20px  ;
+}
+.noidung a u {
+    color: rgb(121, 8, 121);
+}

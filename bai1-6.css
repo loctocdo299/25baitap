@@ -1,0 +1,28 @@
+
+body{
+    width: 450px;
+}
+.bo{
+    background-color: #e0bea8;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;}
+
+.tren{
+    margin-left: 20px;
+}
+.giua{
+    margin-left: 20px;
+}
+.cuoi{
+  margin-left: 20px;
+}
+p{
+    margin-left: 40px;
+}
+.thongtin p{
+    text-align: right;
+}

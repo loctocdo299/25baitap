@@ -1,0 +1,36 @@
+
+.cha{
+    width: 550px;
+    display: block;
+}
+.cha h1{
+    text-align: center;
+}
+.cha .dong1{
+    display: flex;
+}
+.cha .dong1 p{
+    margin-top: 0;
+}
+.cha .dong2{
+    display: flex;
+    
+    
+}
+.cha .dong2 header{  
+    margin-left: 90px;
+    margin-top: -10px;
+    display: block;
+    display:flex;
+    width: 770px;
+}
+.cha .dong2 p{
+  
+    left: 0; top: 0;
+}
+.cha .dong2 img{
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-top: 0;
+   
+}
